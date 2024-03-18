@@ -2,4 +2,8 @@
 
 ## Acerca de mi
 
-ESCRIBRIR SOBRE NOSOTROS
+ESCRIBIR SOBRE NOSOTROS
+
+## Contacto
+
+Hacer el cierre de la presentación
