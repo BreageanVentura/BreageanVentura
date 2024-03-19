@@ -7,3 +7,7 @@ ESCRIBIR SOBRE NOSOTROS
 ## Contacto
 
 Hacer el cierre de la presentación
+
+## Hobbies
+
+- Dancing: ...
