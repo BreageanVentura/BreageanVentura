@@ -7,3 +7,7 @@ ESCRIBIR SOBRE NOSOTROS
 ## Contacto
 
 Hacer el cierre de la presentación
+
+## IDIOMAS
+
+Aqui agregar los idiomas del programa
