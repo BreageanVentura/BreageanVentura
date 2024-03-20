@@ -20,3 +20,7 @@ Hacer el cierre de la presentación
 ## Hobbies
 
 - Dancing: ...
+
+## IDIOMAS
+
+Aqui agregar los idiomas del programa
